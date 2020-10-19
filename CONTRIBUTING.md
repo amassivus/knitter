@@ -12,6 +12,7 @@ Free Documentation License".
 ## Scope 
 
 * [Masscollabs Services](https://github.com/masscollabs)
+* [Masscollaboration Labs](https://github.com/masscollaborationlabs)
 * [hwpplayers](https://github.com/hwpplayers)
 * [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux) 
 * [amassivus](https://www.github.com/amassivus)
@@ -20,9 +21,8 @@ Free Documentation License".
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [hwpplayers](https://github.com/hwpplayers), and [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [amassivus](https://www.github.com/amassivus) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [Masscollaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus), [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [hwpplayers](https://github.com/hwpplayers) organizations.
 
 ### Code
 
 * You may write your source code with any programming language or framework technology, in GNU, Linux, OpenBSD or any coding style. If there is a conflict we will create another branch and your contributions will never be deleted and we'll keep eyes on focusing the source code to learn how it works to support and for our research and development activities.
-
