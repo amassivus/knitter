@@ -1,4 +1,4 @@
-Copyright (C)  2020  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 	
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -21,8 +21,9 @@ Free Documentation License".
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [Masscollaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus), [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [hwpplayers](https://github.com/hwpplayers) organizations.
+* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [Masscollaboration Labs](https://github.com/masscollaborationlabs), [hwpplayers](https://github.com/hwpplayers), and [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [amassivus](https://www.github.com/amassivus) organizations
 
 ### Code
 
 * You may write your source code with any programming language or framework technology, in GNU, Linux, OpenBSD or any coding style. If there is a conflict we will create another branch and your contributions will never be deleted and we'll keep eyes on focusing the source code to learn how it works to support and for our research and development activities.
+

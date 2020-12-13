@@ -5,7 +5,7 @@
 #    Knitter runs as a server and provided services to network users so we have choosen AGPLv3 or any later license fot that purpose
 #    Enjoy it! Happy hacking!
 #
-#    Copyright (C) 2020 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+#    Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published
@@ -31,8 +31,8 @@ print ("""
      Knitter runs as a server and provided services to network users so we have choosen AGPLv3 or any later license fot that purpose
      Enjoy it! Happy hacking!
 
-     Copyright (C) 2020 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
- 
+     Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+      
      This program is free software: you can redistribute it and/or modify
      it under the terms of the GNU Affero General Public License as published
      by the Free Software Foundation, either version 3 of the License, or
